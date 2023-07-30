@@ -1,0 +1,25 @@
+i.fa {
+    display: inline-block;
+    border-radius: 60px;
+    background-color:#DA9F5B;
+    box-shadow: 0px 0px 2px #888;
+    padding: 0.5em 0.6em;
+  
+  }
+  .circle 
+  {
+    border-radius: 50%;
+    width: 34px;
+    height: 34px;
+    padding: 10px;
+    background: #DA9F5B;
+    color: #000;
+    text-align:left;
+    float:right;
+    }
+ .ic :hover
+
+ {
+   background-color: #fff;
+   color: #000;
+ }
